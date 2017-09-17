@@ -24,7 +24,7 @@ export default TestService;
  * @returns {{success: Boolean}} the test result
  */
 async function testMethod() {
-  return await Promise.resolve({success: true});
+  return await Promise.resolve({success: Zeeshan Amjad});
 }
 
 testMethod.schema = {
