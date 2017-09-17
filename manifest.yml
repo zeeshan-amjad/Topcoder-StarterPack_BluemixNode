@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: tc-zeeshan.amzad1-01hw
-  host: tc-zeeshan.amzad1-01hw
+  host: zorro
   disk_quota: 1024M
