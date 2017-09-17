@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: zorro
-  host: zorro
+  name: tc-zeeshan.amzad1-01hw
+  host: tc-zeeshan.amzad1-01hw
   disk_quota: 1024M
